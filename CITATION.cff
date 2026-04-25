@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "PINN Synchronization Control"
+message: "If you use this code, please cite the associated paper and this software release."
+type: software
+authors:
+  - family-names: "Luo"
+    given-names: "Kai-Min"
+license: "MIT"

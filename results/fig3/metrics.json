@@ -1,0 +1,8 @@
+{
+  "target_window_mean_R_pinn": 0.9973064661026001,
+  "target_window_mean_R_rk4_controlled": 0.9972680114452374,
+  "target_window_mean_R_rk4_free": 0.4023459213275628,
+  "final_R_controlled": 0.9973161452045786,
+  "final_R_free": 0.4137266563972154,
+  "total_control_energy": 182.0904541015625
+}

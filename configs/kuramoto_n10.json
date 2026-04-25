@@ -1,0 +1,20 @@
+{
+  "N": 10,
+  "T": 10.0,
+  "K": 0.05,
+  "SEED": 0,
+  "dt": 0.01,
+  "HIDDEN": 40,
+  "DEPTH": 4,
+  "UMAX": 5.0,
+  "steps": 3000,
+  "lr": 0.003,
+  "n_f": 2000,
+  "target_start": 3.0,
+  "target_order": 1.0,
+  "w_R": 500.0,
+  "w_u": 1e-05,
+  "w_phys": 1000.0,
+  "output_dir_fig2": "results/fig2",
+  "output_dir_fig3": "results/fig3"
+}
