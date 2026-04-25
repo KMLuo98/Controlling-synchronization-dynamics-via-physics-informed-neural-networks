@@ -1,4 +1,4 @@
-# PINN Synchronization Control
+# Controlling Synchronization Dynamics via Physics-Informed Neural Networks
 
 Code release for the paper **Controlling synchronization dynamics via physics-informed neural networks**.
 
@@ -39,7 +39,7 @@ This writes:
 Then generate the summary figure:
 
 ```bash
-python figures/plot_fig2.py
+python figures/plot_fig2.py --config configs/kuramoto_n10.json
 ```
 
 ## Run the ODE Fitting Demo
